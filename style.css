@@ -80,6 +80,7 @@ main .gtext h1{
 }
 
 main .imgbox img{
+    border-radius: 5px;
     width: 250px;
     height: 200px;
 }
@@ -87,4 +88,21 @@ main .imgbox img{
 main .imgbox{
     display: flex;
     justify-content: space-around;
+}
+
+main #textbox{
+    display: flex;
+    justify-content: space-around;
+}
+
+main .right img{
+    
+    border-radius: 50%;
+    width: 700px;
+}
+
+main .left{
+    padding: 30px;
+    font-size: 20px;
+    width: 700px;
 }

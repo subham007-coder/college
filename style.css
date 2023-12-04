@@ -32,10 +32,6 @@ nav{
     width: 50px;
 }
 
-/* main {
-    overflow-x: hidden;
-} */
-
 main .img-container{
     background-image: url('https://www.tecb.edu.in/uploads/banner/1625725112-banner.jpg');
     background-size: cover;
@@ -45,7 +41,6 @@ main .img-container{
 }
 
 .img-container{
-    /* margin-top: 100px; */
     display: flex;
     flex-direction: column;
 }
